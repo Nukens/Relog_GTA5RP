@@ -9,9 +9,9 @@
 
 # Инструкция по установке
 
-* [Скачайте архив Relog](https://github.com/Nukens/Relog_GTA5RP/archive/refs/heads/main.zip).
+* [Скачайте архив Relog](https://github.com/Nukens/Relog_GTA5RP/releases/download/GTA5RP/Relog.v1.3.rar).
 * Откройте его и перенесите папку Relog в удобное место.
-* [Скачайте с официального сайта](https://www.autohotkey.com/) установщик AutoHotKey и установите AHK в **C:\Program Files\AutoHotkey** (Очень важно)
+* [Скачайте с официального сайта](https://www.autohotkey.com/) установщик AutoHotKey и установите AHK в **C:\Program Files\AutoHotkey** (Очень важно).
 > * Запустите GTA5RP и сделайте скриншот персонажа прямо перед входом на сервер. Обрежьте его точно так же:  
 ![Ник персонажа](https://cdn.discordapp.com/attachments/1229842293109035131/1246518327858434120/785be5518d518ccb.PNG?ex=665cae28&is=665b5ca8&hm=53a9abe33a05276c9d7eace40411337affe46350854210aa0a0c24130d3ace1a&) > Это важно <
 * Сохраните изображение и назовите 'character_1.PNG' без кавычек.
